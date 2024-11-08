@@ -2,7 +2,7 @@
 
 Meu nome é Cecília Gonçalves Bonfim
 
-- Estou estudando na [Alura] (https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavasScript
 - Utilizo esse espaço para minha organização e compartilhamentos
 
